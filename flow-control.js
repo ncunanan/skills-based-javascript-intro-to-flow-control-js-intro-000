@@ -4,6 +4,8 @@ function basicTeenager(age) {
   }
   }
 }
+basicTeenager(13)
+
 
 function teenager(age) {
   if (age > 13 && age < 19) {
